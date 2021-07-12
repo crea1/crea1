@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is where I keep most of my old half finished projects 🕸️ 
+
+![sorry](https://media.giphy.com/media/YMLy84DnoSAefCGAM6/giphy.gif)
+
 <!--
 **crea1/crea1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
